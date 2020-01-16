@@ -1,0 +1,8 @@
+image/left01.bmp
+image/left02.bmp
+image/left03.bmp
+image/left04.bmp
+image/left05.bmp
+image/left06.bmp
+image/left07.bmp
+image/left08.bmp
